@@ -1,6 +1,5 @@
 # sg_sample
-情報セキュリティマネジメント試験の教科書 HTML版  
-（pdf版は http://rundog.org/ にて））
+情報セキュリティマネジメント試験の教科書 HTML版（pdf版は http://rundog.org/ にて））
 ---
 contents.html　情報セキュリティマネジメント試験の教科書目次  
 intro.htm　本書について  
